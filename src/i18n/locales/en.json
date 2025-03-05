@@ -1,0 +1,60 @@
+{
+  "app": {
+    "title": "Barber Queue",
+    "addClient": "Add Client",
+    "removeClient": "Remove Client",
+    "noClients": "No clients in the list",
+    "name": "Your name",
+    "phone": "Phone",
+    "service": "Select a service",
+    "time": "Time",
+    "price": "Price",
+    "estimatedTime": "Estimated time",
+    "estimatedPrice": "Estimated price",
+    "selectService": "Select service",
+    "cancel": "Cancel",
+    "joinQueue": "Join queue",
+    "waitingList": "Waiting list",
+    "beingServed": "Being served",
+    "remainingTime": "Remaining time",
+    "minutes": "minutes"
+  },
+  "services": {
+    "buzzcut": "Buzzcut",
+    "fade": "Fade",
+    "beard_trim": "Beard trim",
+    "full_service": "Full service"
+  },
+  "reminder": {
+    "title": "Would you like us to remind you of your turn?",
+    "never": "Don't remind me",
+    "minutes": "{{minutes}} minutes before",
+    "5min": "5 minutes before",
+    "10min": "10 minutes before",
+    "15min": "15 minutes before",
+    "question": "How often will you get a haircut, {{name}}?",
+    "frequent": "Frequent (10 days)",
+    "maintenance": "Maintenance (21 days)",
+    "occasional": "Occasional (30 days)",
+    "configured": "⚙️ Frequency already set for {{name}}",
+    "noClients": "No clients to schedule reminders"
+  },
+  "settings": {
+    "theme": "Theme",
+    "dark": "Dark",
+    "light": "Light",
+    "language": "Language",
+    "notifications": "Notifications",
+    "sound": "Sound",
+    "vibration": "Vibration",
+    "on": "On",
+    "off": "Off",
+    "fontSize": "Font Size",
+    "small": "Small",
+    "medium": "Medium",
+    "large": "Large",
+    "contrast": "Contrast",
+    "normal": "Normal",
+    "high": "High"
+  }
+} 
